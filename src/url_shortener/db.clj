@@ -38,8 +38,3 @@
 (comment 
   (insert-redirect! "test" "https://google.com")
   (get-url! "test"))
-
-
-
-;; db.qqmucqlppexppukbyvqo.supabase.co
-;; USERNAME: postgres PORT: 5432
